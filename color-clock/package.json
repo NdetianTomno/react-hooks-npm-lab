@@ -1,0 +1,23 @@
+{
+  "name": "bottle",
+  "version": "1.0.0",
+  "description": "It allows the user to view the time.",
+  "main": "1",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+     "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "bottling lab"
+  },
+  "keywords": [
+    "2"
+  ],
+  "author": "Tomno Vivian",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.2.0"
+  }
+}
